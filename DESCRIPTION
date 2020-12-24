@@ -1,15 +1,12 @@
 Package: snapr
-Title: What the Package Does (One Line, Title Case)
+Title: Implements the SNAP model equations, as described by Ritchie 2014.
 Version: 0.0.0.9000
 Authors@R: 
-    person(given = "First",
-           family = "Last",
-           role = c("aut", "cre"),
-           email = "first.last@example.com",
-           comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
-License: `use_mit_license()`, `use_gpl3_license()` or friends to
-    pick a license
+    person(given = "Ruan",
+           family = "de Wet",
+           role = c("aut", "cre"))
+Description: Using rainfall, fire, grazing, fodder and soil texture data, this model estimates the equilibrium soil organic carbon stocks. The details, assumptions and background can be found in Ritchie 2014.
+License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
