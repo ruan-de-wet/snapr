@@ -5,6 +5,7 @@
 #' @param RAIN MAP for year t (mm/year)
 #' @param SAND Sand % in top 30 cm soil
 #' @seealso [snapr::SNAP] which wraps this function.
+#' @export
 
 
 calc_ANPPt_max = function(RAIN, SAND) {

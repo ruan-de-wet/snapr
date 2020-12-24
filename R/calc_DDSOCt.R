@@ -11,6 +11,7 @@
 #' @seealso [snapr::SNAP] which wraps this function.
 #' @seealso [snapr::calc_PDSOCt]
 #' @seealso [snapr::calc_ANPPt_est]
+#' @export
 
 
 calc_DDSOCt = function(ANPPt_est, LIGCELL, GI) {

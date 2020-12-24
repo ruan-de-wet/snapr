@@ -16,6 +16,7 @@
 #' @seealso [snapr::SNAP] which wraps this function.
 #' @seealso [snapr::calc_PDSOCt]
 #' @seealso [snapr::calc_DDSOCt]
+#' @export
 
 calc_SOCeq = function(PDSOCt, DDSOCt, SAND, RAIN) {
 

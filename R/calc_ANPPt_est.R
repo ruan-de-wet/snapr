@@ -6,6 +6,7 @@
 #' @param GI Grazing intensity for year t (proportion)
 #' @param ANPPt_max Output of calc_ANPPt_max()
 #' @seealso [snapr::SNAP] which wraps this function.
+#' @export
 
 calc_ANPPt_est = function(GI, ANPPt_max) {
 

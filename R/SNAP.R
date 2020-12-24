@@ -8,6 +8,7 @@
 #' @param LIGCELL Lignin and cellulose content of livestock feed for year t (proportion)
 #' @param GI Grazing intensity for year t (proportion)
 #' @param Fire Average number of fires per year (#/year)
+#' @export
 
 SNAP = function(SAND, RAIN, LIGCELL, GI, Fire) {
 

@@ -13,6 +13,7 @@
 #' @seealso [snapr::calc_DDSOCt]
 #' @seealso [snapr::calc_ANPPt_est]
 #' @seealso [snapr::calc_BNPPt_est]
+#' @export
 
 calc_PDSOCt = function(ANPPt_est, BNPPt_est, LIGCELL, GI, Fire) {
 

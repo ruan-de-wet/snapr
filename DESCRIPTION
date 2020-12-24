@@ -1,11 +1,12 @@
 Package: snapr
-Title: Implements the SNAP model equations, as described by Ritchie 2014.
+Title: SNAP model in R
 Version: 0.0.0.9000
 Authors@R: 
     person(given = "Ruan",
            family = "de Wet",
-           role = c("aut", "cre"))
-Description: Using rainfall, fire, grazing, fodder and soil texture data, this model estimates the equilibrium soil organic carbon stocks. The details, assumptions and background can be found in Ritchie 2014.
+           role = c("aut", "cre"),
+           email = "rfdewet@gmail.com")
+Description: Using rainfall, fire, grazing, fodder and soil texture data, this model estimates the equilibrium soil organic carbon stocks using the SNAP model. The details, assumptions and background can be found in Ritchie 2014.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true

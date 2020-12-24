@@ -4,6 +4,7 @@
 #'
 #' @param RAIN MAP for year t (mm/year)
 #' @seealso [snapr::SNAP] which wraps this function.
+#' @export
 
 calc_BNPPt_est = function(RAIN) {
 
