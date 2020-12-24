@@ -1,0 +1,16 @@
+citHeader("To cite snapr in publications use:")
+
+citEntry(
+  entry    = "Article",
+  title    = "Plant compensation to grazing and soil carbon dynamics in a tropical grassland",
+  author   = person("Mark", "Ritchie"),
+  journal  = "PeerJ",
+  year     = "2014",
+  volume   = "2",
+  number   = "233",
+  pages    = "27",
+  url      = "http://dx.doi.org/10.7717/peerj.233",
+  textVersion = paste(
+"Ritchie ME. 2014. Plant compensation to grazing and soil carbon dynamics in a tropical grassland. PeerJ 2:e233 https://doi.org/10.7717/peerj.233"
+  )
+)
