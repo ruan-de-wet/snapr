@@ -6,8 +6,7 @@ citEntry(
   author   = person("Mark", "Ritchie"),
   journal  = "PeerJ",
   year     = "2014",
-  volume   = "2",
-  number   = "233",
+  volume   = "2:e233",
   pages    = "27",
   url      = "http://dx.doi.org/10.7717/peerj.233",
   textVersion = paste(
